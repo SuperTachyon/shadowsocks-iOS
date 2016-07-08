@@ -1,4 +1,5 @@
 #!/bin/bash
+pod install
 
 cd AppProxyCap/
 git submodule init
